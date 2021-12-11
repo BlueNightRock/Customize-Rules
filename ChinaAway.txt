@@ -1,0 +1,20 @@
+# ChinaAway default blocklist
+# Blocking some Chinese Popular services
+|| localhost
+::1  localhost
+
+# [Tencent]
+||idqqimg.com^
+||igamecj.com^
+||myapp.com^
+||myqcloud.com^
+||qq.com^
+||qqmail.com^
+||servicewechat.com^
+||tencent.com^
+||tencent-cloud.com^
+||tencent-cloud.net^
+||tenpay.com^
+||wechat.com^
+||weixin.qq.com^
+||api.weixin.qq.com^
