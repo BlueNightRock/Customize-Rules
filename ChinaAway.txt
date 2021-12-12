@@ -17,3 +17,10 @@
 ||tenpay.com^
 ||wechat.com^
 ||weixin.com^
+||snssdk.com^
+||ixigua.com^
+||pstatp.com^
+||ixiguavideo.com^
+||amemv.com^
+||toutiao.com^
+||douyin.com^
