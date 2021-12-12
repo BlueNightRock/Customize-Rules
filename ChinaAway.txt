@@ -25,3 +25,4 @@
 ||toutiao.com^
 ||douyin.com^
 ||douyincdn.com^
+||weibo.com^
