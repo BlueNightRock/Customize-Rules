@@ -24,3 +24,4 @@
 ||amemv.com^
 ||toutiao.com^
 ||douyin.com^
+||douyincdn.com^
