@@ -16,5 +16,3 @@
 ||tencent-cloud.net^
 ||tenpay.com^
 ||wechat.com^
-||weixin.qq.com^
-||api.weixin.qq.com^
